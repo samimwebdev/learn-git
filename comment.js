@@ -1,9 +1,9 @@
 //comment CRUD
 // 1. Create a comment
 console.log('Create comment')
-// 2. Read a comment
+//2. Read a comment
 
-// console.log('Read comment')
+console.log('Read comment')
 // // 3. Update a comment
 // console.log('Update comment')
 
