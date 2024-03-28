@@ -5,7 +5,7 @@ console.log('Create comment')
 
 console.log('Read comment')
 // 3. Update a comment
-console.log('Update comment')
+console.log('Update comment!!')
 
 // 4. Delete a comment
 
